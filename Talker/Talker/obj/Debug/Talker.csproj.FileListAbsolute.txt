@@ -1,0 +1,9 @@
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\bin\Debug\Talker.exe.config
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\bin\Debug\Talker.exe
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\bin\Debug\Talker.pdb
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\obj\Debug\Talker.csprojResolveAssemblyReference.cache
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\obj\Debug\Talker.Properties.Resources.resources
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\obj\Debug\Talker.csproj.GenerateResource.Cache
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\obj\Debug\Talker.exe
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\obj\Debug\Talker.pdb
+c:\users\alejandro\documents\visual studio 2013\Projects\Talker\Talker\obj\Debug\Talker.Form1.resources
